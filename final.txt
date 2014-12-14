@@ -1,0 +1,37 @@
+﻿-----------NetProgramming
+final 
+ลง pathfrom เหมือนเดิม พร้อมทั้ง install cloud ด้วย 
+แล้วยิง tark 10 นาที ต้องไม่ล่ม ไม่รู้เปลี่ยนรึยังนะ
+
+
+
+-------------app mobile
+
+vps (Visual private server)ให้บริการเว็บเราเว็บเดียวไม่แชร์โฮสดีกว่าแชโฮสแต่แพงกว่า
+ >> share hosting >> 
+
+cloud computing >> ไม่มีที่เก็บข้อมูลเป็นหลักแหล่ง
+heroku-dyno
+scal up -> คือการเพิ่มอุปกรณ์เข้าเครื่องไปช่วยงาน(ด้านบน)
+scal out-> คือการเพิ่มเครื่องเข้าไปช่วยการทำงาน(ด้านข้าง)
+
+
+ทำweb ที่ดี ต้องแยกการทำงานกัน 
+-camel code ตัวหน้าเล็กตัวหลังใหญ๋
+-แบ่ง font end และ back end
+-MVC
+- session
+-node แต่ละ node คุยกัน
+- รูป cloud dinary
+-batch service เก็บไปประมวลผลทีเดียว
+
+
+git command - เพื่อการทำงานเป็นทีม, back upได้ คือตอน commit
+github , bit bucket
+สร้าง project kmutnb-mobile-dev
+ตั้งชื่อ (ตัวเล็กหมด) -> assign-ชื่อapp ->assign armoire
+
+
+ESTJ
+
+
